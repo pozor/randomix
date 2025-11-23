@@ -9,7 +9,7 @@ Need help with Randomix? You're in the right place!
 ### Before You Ask
 
 1. **Check the [FAQ](FAQ.md)** - Most common questions are answered there
-2. **Search existing [Issues](https://github.com/YOUR_USERNAME/randomix-support/issues)** - Your question might already be answered
+2. **Search existing [Issues](https://github.com/pozor/randomix/issues)** - Your question might already be answered
 3. **Update the app** - Make sure you're running the latest version from the App Store
 
 ---
@@ -23,15 +23,14 @@ Every tab in Randomix has a **Help button (?)** in the top-right corner with con
 - **[README.md](README.md)** - App overview and features
 - **[FAQ.md](FAQ.md)** - Frequently Asked Questions
 - **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - Privacy and data handling
-- **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
 
 ---
 
 ## 🐛 Report a Bug
 
-Found something broken? Help us fix it!
+Found something broken? Help me fix it!
 
-**[Report a Bug →](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md)**
+**[Report a Bug →](https://github.com/pozor/randomix/issues/new?template=bug_report.md)**
 
 Please include:
 - iOS version (Settings → General → About → Software Version)
@@ -62,15 +61,15 @@ Screenshot: [attached]
 
 Have an idea to make Randomix better?
 
-**[Request a Feature →](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=feature_request.md)**
+**[Request a Feature →](https://github.com/pozor/randomix/issues/new?template=feature_request.md)**
 
-We love hearing from users! Describe:
+I love hearing from users! Describe:
 - The problem you're trying to solve
 - Your proposed solution
 - Alternative solutions you've considered
 - How it would help you and others
 
-**Note:** We can't guarantee all features will be implemented, but we read every suggestion.
+**Note:** I can't guarantee all features will be implemented, but I read every suggestion.
 
 ---
 
@@ -78,7 +77,7 @@ We love hearing from users! Describe:
 
 Not sure how something works?
 
-**[Ask a Question →](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=question.md)**
+**[Ask a Question →](https://github.com/pozor/randomix/issues/new?template=question.md)**
 
 Questions are welcome! Topics might include:
 - How to use specific features
@@ -95,7 +94,7 @@ Prefer email over GitHub?
 
 **Email:** support@randomix.app *(placeholder - update with real email)*
 
-**Response time:** Within 48 hours (usually faster)
+**Response time:** I'll respond within 48 hours (usually faster)
 
 **Best for:**
 - Private/sensitive issues
@@ -118,7 +117,7 @@ Randomix is available in 6 languages:
 - 🇪🇸 Spanish (Español)
 - 🇵🇹 Portuguese (Português)
 
-**Translation issues?** [Open an issue](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md) with:
+**Translation issues?** [Open an issue](https://github.com/pozor/randomix/issues/new?template=bug_report.md) with:
 - Language affected
 - Incorrect text (screenshot)
 - Suggested correction
@@ -130,7 +129,7 @@ Randomix is available in 6 languages:
 
 Randomix is WCAG 2.1 Level AA compliant. If you encounter accessibility issues:
 
-**[Report Accessibility Issue →](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md)**
+**[Report Accessibility Issue →](https://github.com/pozor/randomix/issues/new?template=bug_report.md)**
 
 Include:
 - Assistive technology used (VoiceOver, TalkBack, etc.)
@@ -138,14 +137,14 @@ Include:
 - Specific problem (e.g., "History button not announced by VoiceOver")
 - Which screen/feature
 
-We take accessibility seriously and will prioritize these fixes.
+I take accessibility seriously and will prioritize these fixes.
 
 ---
 
 ## 🔒 Privacy & Security
 
 ### Privacy Questions
-See our [Privacy Policy](PRIVACY_POLICY.md).
+See the [Privacy Policy](PRIVACY_POLICY.md).
 
 **TL;DR:** Randomix collects zero data. Everything stays on your device.
 
@@ -156,7 +155,7 @@ Found a security vulnerability? Please report it privately:
 
 **Do NOT open a public issue for security vulnerabilities.**
 
-We'll respond within 24 hours and work with you to address it.
+I'll respond within 24 hours and work with you to address it.
 
 ---
 
@@ -190,7 +189,7 @@ We'll respond within 24 hours and work with you to address it.
 ### Lost Data After Update
 Data loss should never happen. If it does:
 1. **Don't uninstall the app** (will permanently delete data)
-2. [Open an urgent bug report](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md)
+2. [Open an urgent bug report](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
 3. Include: iOS version, app versions (before and after), what data was lost
 
 ---
@@ -216,12 +215,12 @@ Data loss should never happen. If it does:
 
 ## 💬 Community
 
-Currently, support is provided via GitHub Issues. We may add:
+Currently, support is provided via GitHub Issues. I may add:
 - Discord server (if community grows)
 - Reddit community (r/RandomixApp)
 - Twitter/X (@RandomixApp)
 
-Want to help build a community? [Let us know!](https://github.com/YOUR_USERNAME/randomix-support/issues)
+Want to help build a community? [Let me know!](https://github.com/pozor/randomix/issues)
 
 ---
 
@@ -246,7 +245,7 @@ Want to help build a community? [Let us know!](https://github.com/YOUR_USERNAME/
 Before contacting support, please:
 - [ ] Read the in-app Help (? button)
 - [ ] Check the [FAQ](FAQ.md)
-- [ ] Search existing [Issues](https://github.com/YOUR_USERNAME/randomix-support/issues)
+- [ ] Search existing [Issues](https://github.com/pozor/randomix/issues)
 - [ ] Update to latest app version
 - [ ] Restart your device (fixes 50% of issues!)
 - [ ] Note your iOS version and app version
@@ -255,16 +254,16 @@ Before contacting support, please:
 
 ## 🙏 Thank You
 
-We appreciate your patience and feedback. Randomix is built for users like you!
+I appreciate your patience and feedback. Randomix is built for users like you!
 
 **Have a great experience?** Leave a review on the App Store - it helps more people find Randomix.
 
 ---
 
 **Quick Links:**
-- [Report Bug](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md)
-- [Request Feature](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=feature_request.md)
-- [Ask Question](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=question.md)
+- [Report Bug](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
+- [Request Feature](https://github.com/pozor/randomix/issues/new?template=feature_request.md)
+- [Ask Question](https://github.com/pozor/randomix/issues/new?template=question.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [FAQ](FAQ.md)
 

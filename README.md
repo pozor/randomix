@@ -125,12 +125,12 @@ Requirements: iOS 13.4 or later
 
 ## 🆘 Support
 
-Need help? We're here for you!
+Need help? I'm here for you!
 
 - 📖 **[Read the FAQ](FAQ.md)** - Common questions and answers
-- 🐛 **[Report a Bug](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=bug_report.md)** - Found an issue? Let us know!
-- 💡 **[Request a Feature](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=feature_request.md)** - Have an idea? Share it!
-- ❓ **[Ask a Question](https://github.com/YOUR_USERNAME/randomix-support/issues/new?template=question.md)** - General inquiries
+- 🐛 **[Report a Bug](https://github.com/pozor/randomix/issues/new?template=bug_report.md)** - Found an issue? Let me know!
+- 💡 **[Request a Feature](https://github.com/pozor/randomix/issues/new?template=feature_request.md)** - Have an idea? Share it!
+- ❓ **[Ask a Question](https://github.com/pozor/randomix/issues/new?template=question.md)** - General inquiries
 
 For detailed support information, see [SUPPORT.md](SUPPORT.md).
 
@@ -153,7 +153,7 @@ The app automatically detects your system language and adapts accordingly.
 
 ## 🔐 Privacy
 
-Your privacy matters. Read our full [Privacy Policy](PRIVACY_POLICY.md).
+Your privacy matters. Read the full [Privacy Policy](PRIVACY_POLICY.md).
 
 **TL;DR:**
 - ✅ All data stays on your device
@@ -187,7 +187,7 @@ Built with:
 
 ## 📮 Contact
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/YOUR_USERNAME/randomix-support/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/pozor/randomix/issues)
 - **Email**: support@randomix.app *(placeholder - update with real email)*
 
 ---
@@ -196,7 +196,7 @@ Built with:
 
 **Made with ❤️ for the randomness enthusiasts**
 
-[Privacy Policy](PRIVACY_POLICY.md) • [Support](SUPPORT.md) • [Contributing Guidelines](CONTRIBUTING.md) • [Changelog](CHANGELOG.md)
+[Privacy Policy](PRIVACY_POLICY.md) • [Support](SUPPORT.md) • [Contributing Guidelines](CONTRIBUTING.md)
 
 © 2025 Randomix. All rights reserved.
 
