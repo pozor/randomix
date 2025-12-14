@@ -1,15 +1,15 @@
 # Support
 
-Need help with Randomix?
+Need help with Pocket Random?
 
 ---
 
 ## Quick Links
 
 - [FAQ](FAQ.md) — Common questions
-- [Report a Bug](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
-- [Request a Feature](https://github.com/pozor/randomix/issues/new?template=feature_request.md)
-- [Ask a Question](https://github.com/pozor/randomix/issues/new?template=question.md)
+- [Report a Bug](https://github.com/pozor/pocket-random/issues/new?template=bug_report.md)
+- [Request a Feature](https://github.com/pozor/pocket-random/issues/new?template=feature_request.md)
+- [Ask a Question](https://github.com/pozor/pocket-random/issues/new?template=question.md)
 
 ---
 
@@ -33,9 +33,9 @@ Include:
 
 ## Contact
 
-- **GitHub Issues:** [github.com/pozor/randomix/issues](https://github.com/pozor/randomix/issues)
+- **GitHub Issues:** [github.com/pozor/pocket-random/issues](https://github.com/pozor/pocket-random/issues)
 - **Email:** dev@brunettospinelli.it
 
 ---
 
-© 2025 Randomix
+© 2025 Pocket Random

@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question about Randomix
+about: Ask a question about Pocket Random
 title: '[QUESTION] '
 labels: question
 assignees: ''

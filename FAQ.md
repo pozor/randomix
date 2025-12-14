@@ -2,11 +2,11 @@
 
 ## General
 
-**Is Randomix free?**
+**Is Pocket Random free?**
 Yes, completely free with no ads or in-app purchases.
 
 **Does it work offline?**
-Yes, Randomix works 100% offline.
+Yes, Pocket Random works 100% offline.
 
 **What devices are supported?**
 iPhone/iPad with iOS 13.4 or later.
@@ -81,16 +81,16 @@ There's a 1-second cooldown to prevent multiple triggers.
 3. Reinstall app (deletes data)
 
 **VoiceOver not working correctly**
-[Report an accessibility issue](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
+[Report an accessibility issue](https://github.com/pozor/pocket-random/issues/new?template=bug_report.md)
 
 ---
 
 ## More Questions?
 
-- [Report a Bug](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
-- [Request a Feature](https://github.com/pozor/randomix/issues/new?template=feature_request.md)
+- [Report a Bug](https://github.com/pozor/pocket-random/issues/new?template=bug_report.md)
+- [Request a Feature](https://github.com/pozor/pocket-random/issues/new?template=feature_request.md)
 - Email: dev@brunettospinelli.it
 
 ---
 
-© 2025 Randomix
+© 2025 Pocket Random

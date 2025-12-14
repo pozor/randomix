@@ -6,7 +6,7 @@
 
 ## Summary
 
-Randomix collects **zero data**. Everything stays on your device.
+Pocket Random collects **zero data**. Everything stays on your device.
 
 ---
 
@@ -35,13 +35,13 @@ Data is deleted when you uninstall the app.
 
 ## Third-Party Services
 
-**None.** Randomix is completely offline and self-contained.
+**None.** Pocket Random is completely offline and self-contained.
 
 ---
 
 ## Permissions
 
-Randomix requests **no device permissions** (no camera, location, contacts, etc.).
+Pocket Random requests **no device permissions** (no camera, location, contacts, etc.).
 
 ---
 
@@ -57,4 +57,4 @@ Questions? Email dev@brunettospinelli.it
 
 ---
 
-© 2025 Randomix
+© 2025 Pocket Random

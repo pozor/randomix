@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or improvement for Randomix
+about: Suggest a new feature or improvement for Pocket Random
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
@@ -100,4 +100,4 @@ assignees: ''
 **Before submitting:**
 - [ ] I have searched for similar feature requests
 - [ ] I have read [CONTRIBUTING.md](../../CONTRIBUTING.md)
-- [ ] This feature aligns with Randomix's scope (random generation & statistics)
+- [ ] This feature aligns with Pocket Random's scope (random generation & statistics)

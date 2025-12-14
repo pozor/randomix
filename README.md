@@ -1,8 +1,8 @@
-# Randomix
+# Pocket Random
 
 **Random number and phrase generator for iOS**
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-blue)](https://apps.apple.com/app/randomix)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-blue)](https://apps.apple.com/app/pocket-random)
 ![Version](https://img.shields.io/badge/version-1.0.1-green)
 ![iOS](https://img.shields.io/badge/iOS-13.4+-lightgrey)
 
@@ -35,9 +35,9 @@
 
 ## Contact
 
-- **Issues:** [GitHub Issues](https://github.com/pozor/randomix/issues)
+- **Issues:** [GitHub Issues](https://github.com/pozor/pocket-random/issues)
 - **Email:** dev@brunettospinelli.it
 
 ---
 
-© 2025 Randomix
+© 2025 Pocket Random

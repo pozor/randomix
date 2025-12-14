@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug or issue with Randomix
+about: Report a bug or issue with Pocket Random
 title: '[BUG] '
 labels: bug
 assignees: ''
@@ -13,7 +13,7 @@ assignees: ''
 ## 📱 Device Information
 
 - **iOS Version:** [e.g., 17.1.2]
-- **Randomix Version:** [e.g., 1.0.0 - find in Settings tab]
+- **Pocket Random Version:** [e.g., 1.0.0 - find in Settings tab]
 - **Device Model:** [e.g., iPhone 14 Pro, iPad Air 5th gen]
 
 ## 🔄 Steps to Reproduce
@@ -52,7 +52,7 @@ assignees: ''
 
 ## 🔍 Console Logs (Optional)
 
-<!-- For technical users: Settings → Privacy & Security → Analytics & Improvements → Analytics Data → Randomix -->
+<!-- For technical users: Settings → Privacy & Security → Analytics & Improvements → Analytics Data → Pocket Random -->
 
 ```
 Paste console logs here (if available)

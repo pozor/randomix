@@ -1,6 +1,6 @@
 # Accessibility
 
-Randomix is designed for **WCAG 2.1 Level AA** compliance.
+Pocket Random is designed for **WCAG 2.1 Level AA** compliance.
 
 ---
 
@@ -25,7 +25,7 @@ English, Italian, French, German, Spanish, Portuguese
 
 Accessibility issues are high priority.
 
-[Report an accessibility issue](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
+[Report an accessibility issue](https://github.com/pozor/pocket-random/issues/new?template=bug_report.md)
 
 Include:
 - Assistive technology used
@@ -41,4 +41,4 @@ Email: dev@brunettospinelli.it
 
 ---
 
-© 2025 Randomix
+© 2025 Pocket Random
